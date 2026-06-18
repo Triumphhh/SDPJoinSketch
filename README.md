@@ -134,7 +134,6 @@ shuffle, dataset, method, k, m, epsilon, seed, ground_truth, estimate, AE, RE, t
   title={Improving Utility of Private Join Size Estimation via Shuffling},
   author={Xin Liu and Yibin Mao and Meifan Zhang and Mohan Li},
   journal={Mathematics},
-  year={2025},
-  url={https://api.semanticscholar.org/CorpusID:282708569}
+  year={2025}
 }
 ```
