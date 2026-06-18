@@ -138,5 +138,3 @@ shuffle, dataset, method, k, m, epsilon, seed, ground_truth, estimate, AE, RE, t
   url={https://api.semanticscholar.org/CorpusID:282708569}
 }
 ```
-
-> **注意**：论文正式发表后请替换为完整的 BibTeX 引用信息。
