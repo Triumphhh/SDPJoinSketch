@@ -130,10 +130,12 @@ shuffle, dataset, method, k, m, epsilon, seed, ground_truth, estimate, AE, RE, t
 如果本代码对您的研究有帮助，请引用对应论文：
 
 ```bibtex
-@article{sdpjoinsketch2024,
-  title  = {Improving Utility of Private Join Size Estimation via Shuffling},
-  author = {Liu, Xin and others},
-  year   = {2024}
+@article{Liu2025ImprovingUO,
+  title={Improving Utility of Private Join Size Estimation via Shuffling},
+  author={Xin Liu and Yibin Mao and Meifan Zhang and Mohan Li},
+  journal={Mathematics},
+  year={2025},
+  url={https://api.semanticscholar.org/CorpusID:282708569}
 }
 ```
 
